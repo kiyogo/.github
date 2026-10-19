@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-Welcome to **KIYO** . We are a technology and digital services company in Vietnam, building software, AI, and cloud solutions.
+Welcome to **Square KIYO** . We are a technology company
 
 ### What We Do
-* **Software:** Software development
+Software development
 
 ### Our Projects
-* **hheloo:**
+**hheloo:**
 
 
 ### Contact Us
-* **Website:** [kiyovn.com](https://kiyovn.com)
-* **Email:** [contact@kiyovn.com](mailto:contact@kiyovn.com)
+**Website:** [kiyovn.com](https://kiyovn.com) | **Email:** [contact@kiyovn.com](mailto:contact@kiyovn.com)
